@@ -1,4 +1,4 @@
-# Finalproject
+# Final project
 Final project for data science course
 
 So, when I started this project, I had an ambitious thought to compare 3 different countries news outlets.  By considering the percentage of categories(genres) of news and then doing a sentiment analysis on the content of articles to see if the old adage “All news is bad news.” was true.  Completely new to the world of web scraping and crawlers I completely underestimated how much I would have to learn and accomplish over the time given.  As you can probably already see 
